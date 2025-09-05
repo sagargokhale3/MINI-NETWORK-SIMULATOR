@@ -16,16 +16,6 @@ A lightweight **network simulator** in Python demonstrating:
 
 ---
 
-## 📂 Project Structure
-
-mini-network-simulator/
-│── README.md
-│── requirements.txt
-│── src/               # Core simulation
-│── tests/             # Example test runs
-
----
-
 ## 🛠️ Setup
 ```bash
 git clone https://github.com/<your-username>/mini-network-simulator.git
